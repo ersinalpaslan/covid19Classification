@@ -1,1 +1,3 @@
-# covid19Classification
+# COVID-19 GÖĞÜS RÖNTGEN GÖRÜNTÜLERİNİN DERİN ÖĞRENME İLE SINIFLANDIRILMASI
+Bu çalışmada veri seti olarak, kullanıma açık olan COVID-19 röntgen fotoğraflarından oluşan veri seti kullandık.[31] Bu röntgen görüntüleri farklı boyut ve çözünürlüğe sahip olduğundan bunları 299 x 299 olarak yeniden boyutlandırdık. Bu çalışmada DenseNet201, VGG16, ResNet50, InceptionV3 gibi CNN mimarileri üzerinden sınıflandırma yaparak bu modellerin, doğruluk, kesinlik, kayıp, geri çağırma verileri ile kayıp ve doğruluk grafikleri bulunarak karşılaştırma tabloları hazırlanmıştır. Şekil 4.2.1’de modelin mimarisi gösterilmektedir ve adımlar aşağıda açıklanmıştır.
+![image](https://user-images.githubusercontent.com/36737805/174456658-772bf7f3-80f5-4d8e-b7f7-ab66e794d905.png)
