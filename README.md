@@ -18,5 +18,6 @@ Daha sonra model, veri setinin kalan %20'si(176 adet pozitif ve 200 adet negatif
 4.3.1 Veri Seti:
 Bu çalışmada COVID-19 hastalarına ve normal hastalara ait göğüs röntgen fotoğrafları kullandık. Bu modelde 1000 tanesi normal akciğer ve 904 tanesi COVID-19’dan etkilenen akciğer olmak üzere toplam 1904 göğüs röntgen fotoğrafı kullanıldı. Veri seti eğitim için %70, test için %20 ve onaylama için %10 olarak ayrıldı. Tüm röntgen görüntüleri şekil ve boyut olarak farklı olduğu için  görüntüler 299 × 299 olarak yeniden boyutlandırıldı.
 ![image](https://user-images.githubusercontent.com/36737805/174456691-a871a279-b1db-48ee-8964-f2a7ce9458f8.png)
+
 4.3.1 Sonuçlar ve Değerlendirme:
 ![image](https://user-images.githubusercontent.com/36737805/174456701-03953e01-5599-40d4-8823-1957b6d6063f.png)
